@@ -41,7 +41,7 @@ A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 3. Open `index.html` in your browser.
 
 ## Live Demo
-rahullll-rock-paper-scissor.netlify.app
+https://rahullll-rock-paper-scissor.netlify.app
 
 ## Contributing
 Feel free to fork this repository and improve the project. You can create a pull request with your changes.
